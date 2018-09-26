@@ -1,1 +1,1 @@
-export const ADD = "ADD"
+export default const ADD = "ADD"
